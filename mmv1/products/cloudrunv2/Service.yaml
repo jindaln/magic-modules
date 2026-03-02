@@ -996,6 +996,7 @@ properties:
                   default_value: "MEMORY"
                   enum_values:
                     - 'MEMORY'
+                    - 'DISK'
                 - name: 'sizeLimit'
                   type: String
                   description: |-
